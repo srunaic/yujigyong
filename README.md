@@ -1,3 +1,7 @@
+<!Doctype html>
+<html>
+    
+<head>    
 #3D 유지경성
 싱글 3D 미로 탈출 게임
 
@@ -13,7 +17,6 @@
     팀원:황동건
          Azatai
          최우형 
-
 ##역할 관리
 <p>팀장:DB저장 로드기능 구현 (3D 모델링 제작 리깅 애니메이션 작업), 플레이어 움직임 카메라 동기화 , 스킬트리 구현 래벨 디자인</p>
 
@@ -34,3 +37,5 @@
 <a href="https://youtu.be/_zqKOrYrl3s"> 유지경성 시연 영상 </a>
 ## 📌게임 Build 파일
 <a href="https://drive.google.com/file/d/1Zh8H1XexYPnsUpSSKMmyO5IYh6AaD5Vs/view?usp=sharing"> 유지경성 게임.exe </a>
+</head>
+</html>
