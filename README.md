@@ -8,7 +8,9 @@
 ## 🖥️ 프로젝트 소개
 몬스터들을 물리치고 함정을 돌파하여 
 미로를 탈출하는 어드밴쳐 게임 실시간 자동저장 시스템 도입
+</head>
 
+<body>
 ## 🕰️ 개발 기간
 * 21.12.01일 - 21.01.05일
 
@@ -32,10 +34,11 @@
 -  Backend DB
 -  PhotoShop2018'
 - 'VisualStudio 2019'
+</body>
 
 ## 📌게임 시연 영상
 <a href="https://youtu.be/_zqKOrYrl3s"> 유지경성 시연 영상 </a>
 ## 📌게임 Build 파일
 <a href="https://drive.google.com/file/d/1Zh8H1XexYPnsUpSSKMmyO5IYh6AaD5Vs/view?usp=sharing"> 유지경성 게임.exe </a>
-</head>
+
 </html>
