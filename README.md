@@ -43,9 +43,4 @@
 - 'VisualStudio 2019'
 </body>
 
-## 📌게임 시연 영상
-<a href="https://youtu.be/_zqKOrYrl3s"> 유지경성 시연 영상 </a>
-## 📌게임 Build 파일
-<a href="https://drive.google.com/file/d/1Zh8H1XexYPnsUpSSKMmyO5IYh6AaD5Vs/view?usp=sharing"> 유지경성 게임.exe </a>
-
 </html>
